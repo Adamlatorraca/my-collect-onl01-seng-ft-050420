@@ -5,5 +5,5 @@ def collecting(array)
     first_names << yield(array[i])
     i += 1
   end
-  collection
+  first_names
 end
