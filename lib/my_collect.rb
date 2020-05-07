@@ -1,6 +1,6 @@
 def collecting(array)
   i = 0
-  collection = []
+  first_names = []
   while i < array.length
     collection << yield(array[i])
     i += 1
