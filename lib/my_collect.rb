@@ -9,5 +9,3 @@ def my_collect(array)
 else
   puts "Hey! No block was given!"
 end
-
-my_collect(["Tim Jones", "Tom Smith", "Jim Campagno"])
