@@ -1,4 +1,4 @@
-def collecting(array)
+def my_collect(array)
   i = 0
   first_names = []
   while i < array.length
