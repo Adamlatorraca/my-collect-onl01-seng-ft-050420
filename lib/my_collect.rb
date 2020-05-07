@@ -5,5 +5,5 @@ def my_collect(array)
     first_names << yield(array[i]).split(" ").first
     i += 1
   end
-  first_names
+  return first_names
 end
