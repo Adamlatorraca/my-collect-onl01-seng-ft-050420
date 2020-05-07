@@ -7,5 +7,3 @@ def collecting(array)
   end
   collection
 end
-
- 
